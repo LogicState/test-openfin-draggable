@@ -1,0 +1,21 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "poc-activity-monitor",
+        "url": "http://localhost:7000/index.html",
+        "uuid": "poc-activity-monitor",
+        "applicationIcon": "http://localhost:7000/favicon.ico",
+        "autoShow": true,
+        "frame": false
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stable"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Activity Monitor",
+        "icon": "http://localhost:7000/favicon.ico",
+        "name": "poc-activity-monitor"
+    }
+}
